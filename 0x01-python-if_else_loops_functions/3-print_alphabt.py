@@ -1,4 +1,5 @@
 #!/usr/bin/python3
-for abc in range(97, 123):
-    if abc != 101 and abc != 113:
-        print("{:c}".format(abc), end='')
+# Author - Tolulope Fakunle
+for letter in range(97, 123):
+    if chr(letter) != 'q' and chr(letter) != 'e':
+        print("{}".format(chr(letter)), end="")
