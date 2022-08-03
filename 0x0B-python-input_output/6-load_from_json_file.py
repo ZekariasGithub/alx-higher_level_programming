@@ -1,5 +1,5 @@
-#!/usr/bin/python3
-"""Module 8-load_from_json_file.
+﻿#!/usr/bin/python3
+"""Module 6-load_from_json_file.
 Creates an Object from a “JSON file”.
 """
 
